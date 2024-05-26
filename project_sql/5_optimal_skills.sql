@@ -71,4 +71,4 @@ HAVING
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-LIMIT 25;
+LIMIT 10;
